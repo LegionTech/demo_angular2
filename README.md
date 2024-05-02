@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
+#Prerequisites
+-Install IIS Express
+-First download the API project by: git clone https://github.com/LegionTech/JohnLyingGroup, then run the project on IIS Express on Visual Studio 2022.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
